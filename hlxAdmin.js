@@ -13,7 +13,7 @@
 require('dotenv').config();
 const axios = require('axios');
 
-const ORG = 'vkstejaswini';
+const ORG = 'knennigtri';
 const REPO = 'aem-ue';
 const BRANCH = 'main';
 
